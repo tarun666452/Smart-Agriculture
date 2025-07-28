@@ -1,1 +1,0 @@
-sudo pip install tensorflow opencv-python picamera2 Adafruit_DHT RPi.GPIO
